@@ -1,4 +1,4 @@
-package ru.vlad1308.REST.API;
+package ru.vlad1308.RestAPI;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
